@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\udav\google drive\лабы\2 курс мама\чисельні методи\project3\project3\source.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\udav\google drive\лабы\2 курс мама\чисельні методи\project3\project3\source.cpp(223): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\udav\google drive\лабы\2 курс мама\чисельні методи\project3\project3\source.cpp(185): warning C4101: 'y': unreferenced local variable
+c:\users\udav\google drive\лабы\2 курс мама\чисельні методи\project3\project3\source.cpp(185): warning C4101: 'x': unreferenced local variable
+  Project3.vcxproj -> C:\Users\UDAV\Google Drive\Лабы\2 курс мама\чисельні методи\Project3\Debug\Project3.exe
